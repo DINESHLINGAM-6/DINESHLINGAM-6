@@ -34,7 +34,7 @@ About me
 
 ### 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dineshlingam-m-u-500849295/)
-[![Email](https://img.shields.io/badge/Email-hello@example.com-red?style=flat&logo=gmail)](mailto:hello@example.com)
+[![Email](https://img.shields.io/badge/Email-hello@example.com-red?style=flat&logo=gmail)](mailto:lingamdinesh6@gmail.com)
 
 ---
 
