@@ -6,7 +6,7 @@ About me
 ---
 
 ### 🛠️ Tech Stack:
-![Languages](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![React](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
@@ -15,12 +15,12 @@ About me
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![Tailwind CSS](https://img.shields.io/badge/Styling-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
 
----
 
 ### 📊 GitHub Stats:
-![DINESHLINGAM's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)
+![DINESHLINGAM's GitHub stats](https://github-readme-stats.vercel.app/api?username=DINESHLINGAM-6&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DINESHLINGAM-6&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=DINESHLINGAM-6&theme=radical)
+
 
 
 ---
