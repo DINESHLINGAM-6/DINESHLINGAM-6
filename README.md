@@ -4,7 +4,6 @@ About me
 <h3 align="center">Eager Explorer | Excited to Learn & Develop New Tech | Architecting Ideas into Reality</h3>
 
 ---
-
 ### 🛠️ Tech Stack:
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
@@ -14,6 +13,7 @@ About me
 ![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![Tailwind CSS](https://img.shields.io/badge/Styling-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
+
 
 
 ### 📊 GitHub Stats:
