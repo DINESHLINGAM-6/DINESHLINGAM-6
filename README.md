@@ -29,6 +29,11 @@ About me
 
 ---
 
+### 🏆 GitHub Trophies:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DINESHLINGAM-6&theme=onedark&no-frame=true&row=1&column=7)
+
+---
+
 ### 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dineshlingam-m-u-500849295/)
 [![Email](https://img.shields.io/badge/Email-lingamdinesh6@gmail.com-red?style=flat&logo=gmail)](mailto:lingamdinesh6@gmail.com)
